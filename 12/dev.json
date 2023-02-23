@@ -1,1 +1,8 @@
-{"version":"10","feature_identifier":"123","mock_ui_link":"goo","cp":"gt","type":"home","portal_menu":"m"}
+{
+"version":"10",
+"feature_identifier":"123",
+"mock_ui_link":"goo",
+"cp":"gt",
+"type":"home",
+  "portal_menu":"m"
+}
